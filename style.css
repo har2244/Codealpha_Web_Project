@@ -1,0 +1,8 @@
+.gallery{
+    display: inline-block;
+    border: 3px solid rgb(231, 218, 218);
+    margin: 5px;
+}
+.gallery:hover{
+    border: 5px solid rgb(33, 31, 31);
+}
